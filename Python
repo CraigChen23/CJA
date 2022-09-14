@@ -1,0 +1,27 @@
+def sleep_in(weekday, vacation):
+  if weekday == True and vacation == False:
+    return False
+  else:
+    return True
+    
+def monkey_trouble(a_smile, b_smile):
+    return a_smile == b_smile
+    
+def sum_double(a, b):
+  if a == b:
+    return 2*(a+b)
+  else:
+    return (a+b)
+    
+def diff21(n):
+  dif = abs(n-21) 
+  if n > 21:
+    return 2 * dif
+  return dif
+
+def parrot_trouble(talking, hour):
+    return talking and (hour < 7 or hour > 20)
+
+def makes10(a, b):
+    return a==10 or b==10 or a+b == 10
+
