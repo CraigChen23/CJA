@@ -118,4 +118,3 @@ def string_match(a, b):
 # Test Cases
 print(string_match('xxcaazz', 'xxbaaz')) # → 3
 print(string_match('abc', 'abc')) # → 2
-print(string_match('abc', 'axc')) # → 0
