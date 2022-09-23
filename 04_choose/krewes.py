@@ -14,7 +14,7 @@ DISCO:
 QCC:
     * Is there a way to generate a random item from an input list, with a built in random method
 OPS SUMMARY:
-    * We made a function, that given a dictionary with key:array pairs returns a random element of a random array
+    * Generate a random key value from the given list of keys and then generate a random value somewhere within the length of that key. Return the value at that key value and then find a randome valeu within the value assigned to the key.
 """
 
 krewes = {2:
