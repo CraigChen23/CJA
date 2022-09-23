@@ -1,7 +1,7 @@
 """
 Craig Chen, Aaron Gershkovich, Kosta Dubovskiy
 SoftDev
-04-krewes
+K04-krewes
 -Dictionaries and Random- 
 2022-09-22
 time spent: 30 minutes
