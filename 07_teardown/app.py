@@ -23,6 +23,8 @@ app.run()  # Q5: Where have you seen similar constructs in other languages?
 DISCO:
 * Our program does not work for unanticipated reasons
 * We host the app locally
+* Upon the questioning and observation of other groups and through assumption of code we determined there should be a website
+* The website should display the phrase "No hablo queso!" which is the return statement of the hello_world function
 QCC:
 -We are getting a circular error that we don't know how to fix
 -We can't install or unistall the app to try again
